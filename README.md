@@ -22,7 +22,7 @@ The project consists of two integrated components:
     <td align="center" width="50%"><b>Gun</b></td>
   </tr>
   <tr>
-    <td><a href="CAD_AI_Agent\custom_meshgpt\output\milk_carton.stl"><img src="https://github.com/harsh199323/cad-ai-agent-text-to-3D/blob/main/custom_meshgpt/output/gun.stl" alt="3D Model of Milk Carton"/></a></td>
+    <td><a href="CAD_AI_Agent\custom_meshgpt\output\milk_carton.stl"><img src="custom_meshgpt/output/gun.stl" alt="3D Model of Milk Carton"/></a></td>
     <td><a href="CAD_AI_Agent\custom_meshgpt\output\gun.stl"><img src="https://github.com/harsh199323/cad-ai-agent-text-to-3D/blob/main/custom_meshgpt/output/gun.stl" alt="3D Model of Gun"/></a></td>
   </tr>
   <tr>

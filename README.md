@@ -24,6 +24,7 @@ The project consists of two integrated components:
   <tr>
     <td><a href="custom_meshgpt/output/gun.stl"><img src="https://www.viewstl.com/?embedded=true&url=https://raw.githubusercontent.com/harsh199323/cad-ai-agent-text-to-3D/main/custom_meshgpt/output/gun.stl" alt="3D Model of Gun"/></a></td>
     <td><a href="https://github.com/harsh199323/cad-ai-agent-text-to-3D/blob/1478a03eea0bae9cb6626ce118f262d05bf26f55/custom_meshgpt/output/milk_carton.stl"><img src="https://www.viewstl.com/?embedded=true&url=https://raw.githubusercontent.com/harsh199323/cad-ai-agent-text-to-3D/main/custom_meshgpt/output/milk_carton.stl" alt="3D Model of Milk Carton"/></a></td>
+     <td><a href="https://github.com/harsh199323/cad-ai-agent-text-to-3D/blob/5f9a7553ef9f05aa2cb6d83703c7b7f67eb5eb84/custom_meshgpt/output/tent.stl"><img src="https://www.viewstl.com/?embedded=true&url=https://raw.githubusercontent.com/harsh199323/cad-ai-agent-text-to-3D/5f9a7553ef9f05aa2cb6d83703c7b7f67eb5eb84/custom_meshgpt/output/tent.stl" alt="3D Model of Tent"/></a></td>
   </tr>
   <tr>
     <td colspan="2">

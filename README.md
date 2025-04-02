@@ -16,6 +16,10 @@ The project consists of two integrated components:
 
 ## 📋 Sample Results
 
+<iframe src="https://www.viewstl.com/?embedded=true&url=https://raw.githubusercontent.com/harsh199323/cad-ai-agent-text-to-3D/main/custom_meshgpt/output/milk_carton.stl" 
+              width="300" height="300"></iframe>
+              <iframe src="https://www.viewstl.com/?embedded=true&url=https://raw.githubusercontent.com/harsh199323/cad-ai-agent-text-to-3D/main/custom_meshgpt/output/milk_carton.stl" 
+              width="300" height="300"></iframe>
 <table>
   <tr>
     <td align="center" width="50%"><b>Milk Carton</b></td>

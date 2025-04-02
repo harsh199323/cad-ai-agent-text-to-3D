@@ -19,7 +19,7 @@ The project consists of two integrated components:
 <table>
   <tr>
     <td align="center" width="50%"><b>Milk Carton</b></td>
-    <td align="center" width="50%"><b>Gun</b></td>
+    <td align="center" width="50%"><b>Camping Tent</b></td>
   </tr>
   <tr>
     <td><a href="https://github.com/harsh199323/cad-ai-agent-text-to-3D/blob/1478a03eea0bae9cb6626ce118f262d05bf26f55/custom_meshgpt/output/milk_carton.stl"><img src="https://www.viewstl.com/?embedded=true&url=https://raw.githubusercontent.com/harsh199323/cad-ai-agent-text-to-3D/main/custom_meshgpt/output/milk_carton.stl" alt="3D Model of Milk Carton"/></a></td>
